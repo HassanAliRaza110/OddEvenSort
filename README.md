@@ -17,7 +17,7 @@ These phases compare all odd/even indexed pairs of adjacent elements in the list
 #### Step 1:
 Firstly we compare odd indexed number with its right neighbor and if the first number is greater than its right number then we swap it otherwise no change. Similarly we do this in every odd phase.
  
-##### Step 2:
+#### Step 2:
 In second step that is even phase we compare even indexed number with its right neighbor and if the first number is greater than its right then we swap it similarly we do this in each even phase.
  
 We repeat these steps until we obtain the sorted list.
