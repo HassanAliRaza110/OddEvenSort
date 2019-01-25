@@ -1,4 +1,4 @@
-#GROUP MEMBERS :
+GROUP MEMBERS :
 
    Ghazal			       :   17b-081-SE(B)	
 Hassan Ali Raza	    :	17B-082-SE(B)
