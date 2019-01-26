@@ -25,6 +25,6 @@ In second step that is even phase we compare even indexed number with its right 
 We repeat these steps until we obtain the sorted list.
  
 ## How to run the code?
-The “program.cs” file given in the folder can be opened in Visual studio 2013. This file contains the source code of programme which has been written and compiled in C#.
+The “OddEvenSort.sln” file given in the folder can be opened in Visual studio 2013. This file contains the source code of programme which has been written and compiled in C#.
 The code contains the odd even sort function in which we do all the working. In odd even sort function we use a flag variable and a temp variable and for and while loop. While loop will work until we obtain the sorted list and first inner for loop is for odd phase and second inner loop is for even phase. When we obatin the sorted list we return that array to main function. Main function contains the array of numbers that are defined and an object for the class and a loop to print the array of sorted elements that are returned from odd even sort  funtion.
 
