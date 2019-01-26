@@ -1,6 +1,6 @@
 # GROUP MEMBERS :
 
-  #### Ghazal			       :   17b-081-SE(B)	
+  #### Ghazal			        : 17B-081-SE(B)	
 #### Hassan Ali Raza	    :	17B-082-SE(B)
 
 
@@ -13,9 +13,11 @@ It works on operating two alternating phases, even phase and odd phase.
 Even-indexed items compare and exchange with their right neighbor.
 ### ODD PHASE:
 Odd-indexed items compare and exchange with their right neighbor.
+### IMPLEMENTATION
 These phases compare all odd/even indexed pairs of adjacent elements in the list and, if a pair is in the wrong order the elements are switched. The next step repeats this for even/odd indexed pairs. Then it alternates between odd/even and even/odd steps until the list is sorted.
 #### Step 1:
 Firstly we compare odd indexed number with its right neighbor and if the first number is greater than its right number then we swap it otherwise no change. Similarly we do this in every odd phase.
+
  
 #### Step 2:
 In second step that is even phase we compare even indexed number with its right neighbor and if the first number is greater than its right then we swap it similarly we do this in each even phase.
